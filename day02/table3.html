@@ -7,27 +7,29 @@
     <title>표 태그와 스타일 속성</title>
     <style>
         table{
-            width: 200px;
-            height: 50px;
+            width: 300px;
+            height: 100px;
         }
         table, td{
             border: 1px solid #ccc;
         }
     </style>
+</head>
 <body>
     <h2>행 합치기</h2>
     <table>
-        <tr>
-            <td rowspan="2"></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <!-- rowspan : 행 합치기-->
+       <tr>
+           <td rowspan="2"></td>
+           <td></td>
+           <td></td>
+       </tr>
+       <tr>
+           <td></td>
+           <td></td>
+       </tr>
+       <!-- rowspan은 행합치기 -->
     </table>
+
     <h2>열 합치기</h2>
     <table>
         <tr>
@@ -38,7 +40,7 @@
         <tr>
             <td colspan="3"></td>
         </tr>
-        <!-- colspan : 열 합치기-->
-    </table>
+        <!-- colspan은 열 합치기 -->
+     </table>
 </body>
 </html>

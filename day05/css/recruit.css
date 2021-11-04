@@ -5,9 +5,9 @@ body{
     width:700px;
     height: 800px;
     margin: 0 auto;
-    padding: 20px;
     background:  #fff url("../images/mic.png") no-repeat right bottom;
-    background-size: 250px; 
+    background-size: 280px;
+    padding: 20px; 
 }
 h1{
     background-color: #004344;
@@ -22,7 +22,4 @@ h2{
 }
 article h3{ color: rgb(212, 3, 3);}
 article ul{list-style: none;}
-article ul li{
-    margin: 15px;
-    /* line-height: 2em; */
-}
+article ul li{margin: 15px;/* line-height: 2em; */}

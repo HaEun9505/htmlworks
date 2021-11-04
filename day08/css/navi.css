@@ -2,7 +2,7 @@
 #container{
     width: 1000px; margin: 0 auto;
 }
-nav{height: 100px; background-color: rgb(163, 224, 230);}
+nav{height: 100px; background-color: rgb(140, 246, 250);}
 nav ul{list-style: none; text-align: right; 
     margin-right: 100px; padding: 20px;}
 nav ul li{display: inline-block; margin: 20px;}

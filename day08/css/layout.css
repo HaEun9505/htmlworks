@@ -1,0 +1,37 @@
+/* layout.css */
+*{margin: 0; padding: 0;}
+#container{
+    width: 1200px; margin: 0 auto;
+}
+#header{
+    height: 100px;
+    background-color: beige;
+    padding: 10px;
+}
+#left-aside{
+    width: 200px;
+    height: 600px;
+    background-color: rgb(176, 235, 152);
+    padding: 10px;
+    float: left;
+}
+#contents{
+    width: 740px;
+    height: 600px;
+    background-color: rgb(230, 238, 155);
+    padding: 10px;
+    float: left;
+}
+#right-aside{
+    width: 200px;
+    height: 600px;
+    background-color: rgb(179, 209, 243);
+    padding: 10px;
+    float: left;
+}
+#footer{
+    height: 600px;
+    background-color: rgb(237, 241, 200);
+    padding: 10px;
+    clear: both;
+}

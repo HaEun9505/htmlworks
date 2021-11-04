@@ -5,9 +5,9 @@ body{
     width:700px;
     height: 800px;
     margin: 0 auto;
-    background:  #fff url("../images/mic.png") no-repeat right bottom;
-    background-size: 280px;
     padding: 20px;
+    background:  #fff url("../images/mic.png") no-repeat right bottom;
+    background-size: 250px; 
 }
 h1{
     background-color: #004344;

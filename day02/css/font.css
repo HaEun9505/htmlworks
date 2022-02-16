@@ -2,7 +2,7 @@
 h1{color: rgb(6, 102, 6);}
 h2{color: blue;}
 p{
-    font-family: "바탕체"; /* font-family : 글자 모양 */
+    font-family: "바탕체";    /* font-family : 글자 모양 */
     line-height: 2;
     /* 줄간격 - 2는 글자크기의 2배이다. */
 }
